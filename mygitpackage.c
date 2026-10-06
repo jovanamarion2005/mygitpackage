@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hello World from mygitpackage\n");
+    printf("Hello World from git - version 2\n");
     return 0;
 }
